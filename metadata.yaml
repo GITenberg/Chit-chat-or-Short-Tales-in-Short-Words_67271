@@ -1,0 +1,29 @@
+_repo: Chit-chat-or-Short-Tales-in-Short-Words_67271
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Budden, Maria Elizabeth
+    deathdate: 1832
+    gutenberg_agent_id: '52625'
+    url: http://www.gutenberg.org/2009/agents/52625
+    wikipedia: https://en.wikipedia.org/wiki/Maria_Elizabeth_Budden
+description: ''
+gutenberg_issued: '2022-01-29'
+identifiers:
+  gutenberg: '67271'
+language: en
+pgterms:marc904: https://archive.org/details/chitchatshorttal00buddiala/page/n6/mode/2up
+pgterms:marc905: 20200403184525budden
+pgterms:marc906: '1831'
+pgterms:marc907: GB
+production_note: Charlene Taylor, Jane Hyland and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United Kingdom :John Harris,1831.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Chit-chat, or Short Tales in Short Words
+url: http://www.gutenberg.org/ebooks/67271
