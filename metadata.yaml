@@ -1,5 +1,8 @@
 _repo: Chit-chat-or-Short-Tales-in-Short-Words_67271
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67271-h/images/modifiedcover.jpg
 creator:
   author:
     agent_name: Budden, Maria Elizabeth
@@ -8,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52625
     wikipedia: https://en.wikipedia.org/wiki/Maria_Elizabeth_Budden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67271#Chit-chat-or-Short-Tales-in-Short-Words
 gutenberg_issued: '2022-01-29'
 identifiers:
   gutenberg: '67271'
